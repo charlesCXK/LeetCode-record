@@ -16,10 +16,13 @@ class Solution:
         
         while it:
             tmp = it.next
+
+            # the last element
             if not tmp:
                 res.append(it.val)
                 break
-                
+            
+            # it has duplicate numbers
             if tmp.val == it.val:
                 while tmp and tmp.val == it.val:
                     tmp = tmp.next
