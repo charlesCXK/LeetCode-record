@@ -13,7 +13,7 @@
 一、当栈为空时，直接将下标 i 压入栈中。
 二、当栈内有元素时，如果栈顶元素不高于 heights[i]，直接将 i 压入栈中；
 否则，假设栈顶元素是 top，对应的 bar 的高度是 heights[top]。将此元素弹出栈，此时栈顶元素假定为 tmp_top，然后可以得到一个显然的性质：
-下标 tmp_top 到下标 i 之间的所有 bar 的高度，都不低于 heights[top]。分两步证明：
+下标 tmp_top 到下标 i 之间的所有 bar (不包含两个端点)的高度，都不低于 heights[top]。分两步证明：
 
 1. 假设 top~i 之间有 bar 的高度小于 heights[top]，那么 top 这个元素会被弹出栈，不应该存在。
 2. 假设 tmp_top~top 之间有 bar 的高度小于 heights[top]，那么不满足栈的单调性，显然不成立，得证。
