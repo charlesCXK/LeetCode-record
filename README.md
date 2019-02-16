@@ -16,6 +16,8 @@ My solutions for LeetCode problems
 | 95   | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Python3](./95/95.py)                    | Medium     | Refer to [here](https://leetcode.com/problems/unique-binary-search-trees-ii/discuss/31592/Recursive-python-solution) |
 | 96   | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Python3](./96/96.py)                    | Medoum     |                                          |
 | 97   | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | [Python3](./97/97.py)                    | Hard       |                                          |
+| 98   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Python3[[1](./98/98.py), [2](./98/98-2.py)] | Medium     | Solution 2 refers to [here](https://leetcode.com/problems/validate-binary-search-tree/discuss/235580/Simple-Java-solution-using-recursion-(Easy-to-understand!)) |
+| 99   | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Python3](./99/99.py)                    | Hard       | Refer to [this thinking](https://leetcode.com/problems/recover-binary-search-tree/discuss/223902/Inorder-Traversal-Logical-Thinking) |
 
 
 
