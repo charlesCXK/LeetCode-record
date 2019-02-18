@@ -20,6 +20,14 @@ My solutions for LeetCode problems
 | 99   | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Python3](./99/99.py)                    | Hard       | Refer to [this thinking](https://leetcode.com/problems/recover-binary-search-tree/discuss/223902/Inorder-Traversal-Logical-Thinking) |
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python3](./100/100.py)                  | Easy       |                                          |
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Python3[[1](./101/101.py), [2](./101/101-2.py)] | Easy       | I think it should be **Medium**          |
+| 102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Python3](./102/102.py)                  | Medium     |                                          |
+| 103  | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Python3](./103/103.py)                  | Medium     | Similar with 102                         |
+| 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python3](./104/104.py)                  | Easy       |                                          |
+| 105  | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Python3](./105/105.py)                  | Medium     |                                          |
+| 106  | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Python3](./106/106.py)                  | Medium     |                                          |
+| 107  | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Python3](./107/107.py)                  | Easy       | Similar with 102                         |
+| 773  | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | [Python3](./773/773.py)                  | Hard       |                                          |
+| 855  | [Exam Room](https://leetcode.com/problems/exam-room/) | [C++](./855/855.cpp)                     | Medium     | Refer to [here](https://leetcode.com/problems/exam-room/discuss/221180/C%2B%2B-Simple-faster-than-87-28ms) |
 
 
 
