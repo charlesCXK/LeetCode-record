@@ -26,7 +26,9 @@ My solutions for LeetCode problems
 | 105  | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Python3](./105/105.py)                  | Medium     |                                          |
 | 106  | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Python3](./106/106.py)                  | Medium     |                                          |
 | 107  | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Python3](./107/107.py)                  | Easy       | Similar with 102                         |
+| 463  | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Python3](./463/463.py)                  | Easy       |                                          |
 | 773  | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | [Python3](./773/773.py)                  | Hard       |                                          |
+| 802  | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [Python3](./802/802.py)                  | Medium     | Refer to [here](https://blog.csdn.net/zjucor/article/details/79599320) |
 | 855  | [Exam Room](https://leetcode.com/problems/exam-room/) | [C++](./855/855.cpp)                     | Medium     | Refer to [here](https://leetcode.com/problems/exam-room/discuss/221180/C%2B%2B-Simple-faster-than-87-28ms) |
 
 
