@@ -26,6 +26,7 @@ My solutions for LeetCode problems
 | 105  | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Python3](./105/105.py)                  | Medium     |                                          |
 | 106  | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Python3](./106/106.py)                  | Medium     |                                          |
 | 107  | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Python3](./107/107.py)                  | Easy       | Similar with 102                         |
+| 257  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Python3](./257/257.py)                  | Easy       |                                          |
 | 463  | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Python3](./463/463.py)                  | Easy       |                                          |
 | 473  | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) | [Python3](./473/473.py), [C++](./473/473.cpp) | Medium     | Refer to [official solution](https://leetcode.com/problems/matchsticks-to-square/solution/) |
 | 773  | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | [Python3](./773/773.py)                  | Hard       |                                          |
