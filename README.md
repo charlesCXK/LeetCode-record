@@ -29,6 +29,7 @@ My solutions for LeetCode problems
 | 257  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Python3](./257/257.py)                  | Easy       |                                          |
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python3](./283/283.py)                  | Easy       |                                          |
 | 463  | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Python3](./463/463.py)                  | Easy       |                                          |
+| 468  | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Python3](./468/468.py)                  | Medium     |                                          |
 | 473  | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) | [Python3](./473/473.py), [C++](./473/473.cpp) | Medium     | Refer to [official solution](https://leetcode.com/problems/matchsticks-to-square/solution/) |
 | 522  | [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [Python3](./522/522.py)                  |            |                                          |
 | 773  | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | [Python3](./773/773.py)                  | Hard       |                                          |
