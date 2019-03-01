@@ -31,7 +31,8 @@ My solutions for LeetCode problems
 | 463  | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Python3](./463/463.py)                  | Easy       |                                          |
 | 468  | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Python3](./468/468.py)                  | Medium     |                                          |
 | 473  | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) | [Python3](./473/473.py), [C++](./473/473.cpp) | Medium     | Refer to [official solution](https://leetcode.com/problems/matchsticks-to-square/solution/) |
-| 522  | [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [Python3](./522/522.py)                  |            |                                          |
+| 522  | [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [Python3](./522/522.py)                  | Medium     |                                          |
+| 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Python3[[1](./647/647.py), [2](./647/647-2.py)] | Medium     | Solution 2 refers to [here](https://leetcode.com/problems/palindromic-substrings/solution/) |
 | 773  | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | [Python3](./773/773.py)                  | Hard       |                                          |
 | 802  | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [Python3](./802/802.py)                  | Medium     | Refer to [here](https://blog.csdn.net/zjucor/article/details/79599320) |
 | 825  | [Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/) | Python3[[1](./825/825.py), [2](./825/825-2.py)] | Medium     | Solution 2 refers to [here](https://leetcode.com/problems/friends-of-appropriate-ages/solution/) |
