@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Name of the problem copied from LeetCode webpage
-problem = '  793. Preimage Size of Factorial Zeroes Function  '
+problem = '  805. Split Array With Same Average  '
 
 '''
 create a new directory
@@ -69,6 +69,7 @@ def main():
 	'''
 	open the file, then I modify it.
 	'''
+	os.system('open {}'.format(str(ID)))
 	os.system('open {}/{}'.format(str(ID), str(ID)+'.py'))
 	os.system('open README.md')
 
