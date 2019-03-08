@@ -29,6 +29,7 @@ My solutions for LeetCode problems
 | 108  | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python3](./108/108.py)                  | Easy       |                                          |
 | 109  | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree) | [Python3](./109/109.py)                  | Medium     |                                          |
 | 110  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | [Python3](./110/110.py)                  | Easy       |                                          |
+| 111  | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | [Python3](./111/111.py)                  | Easy       | A little entrap                          |
 | 257  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Python3](./257/257.py)                  | Easy       |                                          |
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python3](./283/283.py)                  | Easy       |                                          |
 | 330  | [Patching Array](https://leetcode.com/problems/patching-array) | [Python3](./330/330.py)                  | Hard       | Greedy, refer to [here](https://leetcode.com/problems/patching-array/discuss/196326/4ms-C%2B%2B-Greedy-solution-with-explanation%2B) |

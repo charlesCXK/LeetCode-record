@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Name of the problem copied from LeetCode webpage
-problem = '  805. Split Array With Same Average  '
+problem = ' 111. Minimum Depth of Binary Tree  '
 
 '''
 create a new directory
