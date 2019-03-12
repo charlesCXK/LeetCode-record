@@ -30,9 +30,13 @@ My solutions for LeetCode problems
 | 109  | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree) | [Python3](./109/109.py)                  | Medium     |                                          |
 | 110  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | [Python3](./110/110.py)                  | Easy       |                                          |
 | 111  | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | [Python3](./111/111.py)                  | Easy       | A little entrap                          |
+| 146  | [LRU Cache](https://leetcode.com/problems/lru-cache) | Python3[[1](./146/146.py), [2](./146/146-2.py)] | Hard       | Solution2 use *OrderedDict*              |
+| 172  | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | [Python3](./172/172.py)                  | Easy       | There's a conclusion about  factorial    |
 | 257  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Python3](./257/257.py)                  | Easy       |                                          |
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python3](./283/283.py)                  | Easy       |                                          |
 | 330  | [Patching Array](https://leetcode.com/problems/patching-array) | [Python3](./330/330.py)                  | Hard       | Greedy, refer to [here](https://leetcode.com/problems/patching-array/discuss/196326/4ms-C%2B%2B-Greedy-solution-with-explanation%2B) |
+| 341  | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) | [Python3](./341/341.py)                  | Medium     |                                          |
+| 378  | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) | [Python3](./378/378.py)                  | Medium     | Binary Search                            |
 | 414  | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | Python3[[1](./414/414.py), [2](./414/414-2.py)] | Easy       |                                          |
 | 463  | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Python3](./463/463.py)                  | Easy       |                                          |
 | 468  | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Python3](./468/468.py)                  | Medium     |                                          |
@@ -51,10 +55,8 @@ My solutions for LeetCode problems
 | 893  | [Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/) | [Python3](./893/893.py)                  | Easy       | Refer to [here](https://leetcode.com/problems/groups-of-special-equivalent-strings/solution/) |
 | 898  | [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays) | Python3[[1](./898/898.py), [2](./898/898-2.py)] | Medium     | Solution 2 refers to [here](https://leetcode.com/problems/bitwise-ors-of-subarrays/solution/) |
 | 954  | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | [Python3](./954/954.py)                  | Medium     |                                          |
-
-
-
-
-
-
+| 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations) | [Python3](./1005/1005.py)                | Easy       |                                          |
+| 1006 | [Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial) | [Python3](./1006/1006.py)                | Medium     |                                          |
+| 1007 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row) | [Python3](./1007/1007.py)                | Medium     |                                          |
+| 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal) | [Python3](./1008/1008.py)                | Medium     |                                          |
 

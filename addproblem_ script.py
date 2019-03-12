@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Name of the problem copied from LeetCode webpage
-problem = ' 111. Minimum Depth of Binary Tree  '
+problem = ' 341. Flatten Nested List Iterator  '
 
 '''
 create a new directory
@@ -49,6 +49,8 @@ def main():
 	with open('README.md', 'r', encoding='utf-8') as f:
 		lines = f.readlines()
 	for i, line in enumerate(lines):
+		if len(line.strip()) == 0:
+			continue
 		if line.startswith('|'):
 			seg = line.strip().split('|')
 			number = seg[1].strip()
@@ -58,7 +60,7 @@ def main():
 				if int(number) > ID:
 					firstLarger = i
 					break
-	thisProblem = '| {}  | [{}]({}) |'.format(str(ID), Name, Url)
+	thisProblem = '| {}  | [{}]({}) | [Python3](./{}/{}.py) |'.format(str(ID), Name, Url, str(ID), str(ID))
 	with open('README.md', 'w', encoding='utf-8') as f:
 		for line in lines[:firstLarger]:
 			f.write(line.strip() + '\n')
