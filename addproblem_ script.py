@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Name of the problem copied from LeetCode webpage
-problem = ' 341. Flatten Nested List Iterator  '
+problem = ' 301. Remove Invalid Parentheses  '
 
 '''
 create a new directory

@@ -34,10 +34,12 @@ My solutions for LeetCode problems
 | 172  | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | [Python3](./172/172.py)                  | Easy       | There's a conclusion about  factorial    |
 | 257  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Python3](./257/257.py)                  | Easy       |                                          |
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python3](./283/283.py)                  | Easy       |                                          |
+| 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses) | [Python3](./301/301.py)                  | Hard       |                                          |
 | 330  | [Patching Array](https://leetcode.com/problems/patching-array) | [Python3](./330/330.py)                  | Hard       | Greedy, refer to [here](https://leetcode.com/problems/patching-array/discuss/196326/4ms-C%2B%2B-Greedy-solution-with-explanation%2B) |
 | 341  | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) | [Python3](./341/341.py)                  | Medium     |                                          |
 | 378  | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) | [Python3](./378/378.py)                  | Medium     | Binary Search                            |
 | 414  | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | Python3[[1](./414/414.py), [2](./414/414-2.py)] | Easy       |                                          |
+| 435  | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | [C++](./435/435.cpp)                     | Medium     | Greedy                                   |
 | 463  | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Python3](./463/463.py)                  | Easy       |                                          |
 | 468  | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Python3](./468/468.py)                  | Medium     |                                          |
 | 473  | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) | [Python3](./473/473.py), [C++](./473/473.cpp) | Medium     | Refer to [official solution](https://leetcode.com/problems/matchsticks-to-square/solution/) |
