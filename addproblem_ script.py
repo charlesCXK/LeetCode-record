@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Name of the problem copied from LeetCode webpage
-problem = ' 301. Remove Invalid Parentheses  '
+problem = ' 600. Non-negative Integers without Consecutive Ones '
 
 '''
 create a new directory

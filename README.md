@@ -30,6 +30,7 @@ My solutions for LeetCode problems
 | 109  | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree) | [Python3](./109/109.py)                  | Medium     |                                          |
 | 110  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | [Python3](./110/110.py)                  | Easy       |                                          |
 | 111  | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | [Python3](./111/111.py)                  | Easy       | A little entrap                          |
+| 116  | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) | [Python3](./116/116.py)                  | Medium     |                                          |
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache) | Python3[[1](./146/146.py), [2](./146/146-2.py)] | Hard       | Solution2 use *OrderedDict*              |
 | 172  | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | [Python3](./172/172.py)                  | Easy       | There's a conclusion about  factorial    |
 | 257  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Python3](./257/257.py)                  | Easy       |                                          |
@@ -44,6 +45,7 @@ My solutions for LeetCode problems
 | 468  | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Python3](./468/468.py)                  | Medium     |                                          |
 | 473  | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) | [Python3](./473/473.py), [C++](./473/473.cpp) | Medium     | Refer to [official solution](https://leetcode.com/problems/matchsticks-to-square/solution/) |
 | 522  | [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [Python3](./522/522.py)                  | Medium     |                                          |
+| 600  | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones) | [Python3](./600/600.py)                  | Hard       | **Dynamic programming, bit dp**          |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Python3[[1](./647/647.py), [2](./647/647-2.py)] | Medium     | Solution 2 refers to [here](https://leetcode.com/problems/palindromic-substrings/solution/) |
 | 773  | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | [Python3](./773/773.py)                  | Hard       |                                          |
 | 793  | [Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function) | [Python3](./793/793.py)                  | Hard       | Refer to [here](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/discuss/158762/Python-simple-binary-search-solution) |
