@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Name of the problem copied from LeetCode webpage
-problem = ' 600. Non-negative Integers without Consecutive Ones '
+problem = ' 851. Loud and Rich '
 
 '''
 create a new directory
