@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Name of the problem copied from LeetCode webpage
-problem = ' 1037. Valid Boomerang '
+problem = ' 69. Sqrt(x) '
 
 '''
 create a new directory
