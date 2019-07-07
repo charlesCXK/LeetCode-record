@@ -64,4 +64,5 @@ My solutions for LeetCode problems
 | 1006 | [Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial) | [Python3](./1006/1006.py)                | Medium     |                                          |
 | 1007 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row) | [Python3](./1007/1007.py)                | Medium     |                                          |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal) | [Python3](./1008/1008.py)                | Medium     |                                          |
+| 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang) | [C++](./1037/1037.cpp)                   | Easy       |                                          |
 

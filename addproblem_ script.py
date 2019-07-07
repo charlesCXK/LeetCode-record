@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Name of the problem copied from LeetCode webpage
-problem = ' 851. Loud and Rich '
+problem = ' 1037. Valid Boomerang '
 
 '''
 create a new directory
