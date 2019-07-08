@@ -8,6 +8,8 @@ My solutions for LeetCode problems
 | ID   | Title                                    | Solution                                 | Difficulty | Comments                                 |
 | ---- | ---------------------------------------- | ---------------------------------------- | ---------- | ---------------------------------------- |
 | 24   | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python3](./24/24.py)                    | Medium     |                                          |
+| 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [Python3](./34/34.py)                    | Medium     |                                          |
+| 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Python3](./35/35.py)                    | Easy       |                                          |
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrt(x)) | [Python3](./69/69.py)                    | Easy       |                                          |
 | 82   | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Python3](./82/82.py)                    | Medium     |                                          |
 | 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python3](./83/83.py)                    | Easy       |                                          |
