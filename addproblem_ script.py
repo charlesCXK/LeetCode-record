@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Name of the problem copied from LeetCode webpage
-problem = ' 34. Find First and Last Position of Element in Sorted Array '
+problem = ' 153. Find Minimum in Rotated Sorted Array '
 
 '''
 create a new directory
