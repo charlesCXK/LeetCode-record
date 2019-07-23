@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Name of the problem copied from LeetCode webpage
-problem = ' 160. Intersection of Two Linked Lists '
+problem = ' 94. Binary Tree Inorder Traversal '
 
 '''
 create a new directory
