@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Name of the problem copied from LeetCode webpage
-problem = ' 153. Find Minimum in Rotated Sorted Array '
+problem = ' 160. Intersection of Two Linked Lists '
 
 '''
 create a new directory
@@ -56,6 +56,7 @@ def main():
 			number = seg[1].strip()
 			if number.isdigit():
 				if int(number) == ID:
+					os.system('open {}/{}'.format(str(ID), str(ID)+'.py'))
 					exit()
 				if int(number) > ID:
 					firstLarger = i

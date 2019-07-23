@@ -7,15 +7,19 @@ My solutions for LeetCode problems
 
 | ID   | Title                                    | Solution                                 | Difficulty | Comments                                 |
 | ---- | ---------------------------------------- | ---------------------------------------- | ---------- | ---------------------------------------- |
+| 19   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Python3](./19/19.py)                    | Medium     |                                          |
 | 24   | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python3](./24/24.py)                    | Medium     |                                          |
+| 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Python3](./33/33.py)                    | Medium     |                                          |
 | 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [Python3](./34/34.py)                    | Medium     |                                          |
 | 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Python3](./35/35.py)                    | Easy       |                                          |
+| 61   | [Rotate List](https://leetcode.com/problems/rotate-list) | [Python3](./61/61.py)                    | Medium     |                                          |
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrt(x)) | [Python3](./69/69.py)                    | Easy       |                                          |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Python3](./74/74.py)                    | Medium     |                                          |
 | 82   | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Python3](./82/82.py)                    | Medium     |                                          |
 | 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python3](./83/83.py)                    | Easy       |                                          |
 | 84   | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Python3](./84/84.py)                    | Hard       |                                          |
 | 85   | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Python3[[1](./85/85.py), [2](./85/85-2.py)] | Hard       |                                          |
+| 92   | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | [Python3](./92/92.py)                    | Medium     |                                          |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python3](./94/94.py)                    | Medium     |                                          |
 | 95   | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Python3](./95/95.py)                    | Medium     | Refer to [here](https://leetcode.com/problems/unique-binary-search-trees-ii/discuss/31592/Recursive-python-solution) |
 | 96   | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Python3](./96/96.py)                    | Medium     |                                          |
@@ -37,7 +41,10 @@ My solutions for LeetCode problems
 | 116  | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) | [Python3](./116/116.py)                  | Medium     |                                          |
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache) | Python3[[1](./146/146.py), [2](./146/146-2.py)] | Hard       | Solution2 use *OrderedDict*              |
 | 153  | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [Python3](./153/153.py)                  | Medium     |                                          |
+| 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Python3](./160/160.py)                  | Easy       | Refer to [here](https://leetcode.com/problems/intersection-of-two-linked-lists/solution/), two pointer solution |
 | 172  | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | [Python3](./172/172.py)                  | Easy       | There's a conclusion about  factorial    |
+| 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Python3](./206/206.py)                  | Easy       |                                          |
+| 237  | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [Python3](./237/237.py)                  | Easy       |                                          |
 | 257  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Python3](./257/257.py)                  | Easy       |                                          |
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python3](./283/283.py)                  | Easy       |                                          |
 | 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses) | [Python3](./301/301.py)                  | Hard       |                                          |

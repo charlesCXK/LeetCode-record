@@ -5,22 +5,15 @@
 #         self.next = None
 
 class Solution:
-    def deleteDuplicates(self, head: 'ListNode') -> 'ListNode':
-        res = []
+    def deleteDuplicates(self, head: ListNode) -> ListNode:
         it = head
-        
-        # handle the first element
-        # judge if it is an empty list
-        if it:
-            res.append(it.val)
-            last = it
-            it = it.next
-        
-        while it:
-            if it.val != last.val:
-                res.append(it.val)
-            it = it.next
-            last = last.next
-        return res
+        if not it:
+            return None
+        while it.next:
+            if it.next.val == it.val:
+                it.next = it.next.next
+            else:
+                it = it.next
+        return head
             
         
