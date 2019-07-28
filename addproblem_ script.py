@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Name of the problem copied from LeetCode webpage
-problem = ' 94. Binary Tree Inorder Traversal '
+problem = ' 236. Lowest Common Ancestor of a Binary Tree '
 
 '''
 create a new directory
