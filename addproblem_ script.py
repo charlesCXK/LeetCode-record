@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Name of the problem copied from LeetCode webpage
-problem = ' 236. Lowest Common Ancestor of a Binary Tree '
+problem = ' 5. Longest Palindromic Substring '
 
 '''
 create a new directory

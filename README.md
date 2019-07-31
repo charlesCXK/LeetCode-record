@@ -7,11 +7,14 @@ My solutions for LeetCode problems
 
 | ID   | Title                                    | Solution                                 | Difficulty | Comments                                 |
 | ---- | ---------------------------------------- | ---------------------------------------- | ---------- | ---------------------------------------- |
+| 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Python3](./5/5.py)                      | Medium     | Many [solutions here](https://leetcode.com/problems/longest-palindromic-substring/solution/) |
 | 19   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Python3](./19/19.py)                    | Medium     |                                          |
 | 24   | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python3](./24/24.py)                    | Medium     |                                          |
 | 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Python3](./33/33.py)                    | Medium     |                                          |
 | 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [Python3](./34/34.py)                    | Medium     |                                          |
 | 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Python3](./35/35.py)                    | Easy       |                                          |
+| 38   | [Count and Say](https://leetcode.com/problems/count-and-say) | [Python3](./38/38.py)                    | Easy       |                                          |
+| 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [Python3](./49/49.py)                    | Medium     |                                          |
 | 61   | [Rotate List](https://leetcode.com/problems/rotate-list) | [Python3](./61/61.py)                    | Medium     |                                          |
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrt(x)) | [Python3](./69/69.py)                    | Easy       |                                          |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Python3](./74/74.py)                    | Medium     |                                          |
@@ -40,8 +43,10 @@ My solutions for LeetCode problems
 | 111  | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | [Python3](./111/111.py)                  | Easy       | A little entrap                          |
 | 116  | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) | [Python3](./116/116.py)                  | Medium     |                                          |
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache) | Python3[[1](./146/146.py), [2](./146/146-2.py)] | Hard       | Solution2 use *OrderedDict*              |
+| 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | [Python3](./151/151.py)                  | Medium     | Maybe it is 'Easy'.                      |
 | 153  | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [Python3](./153/153.py)                  | Medium     |                                          |
 | 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Python3](./160/160.py)                  | Easy       | Refer to [here](https://leetcode.com/problems/intersection-of-two-linked-lists/solution/), two pointer solution |
+| 165  | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers) | [Python3](./165/165.py)                  | Medium     |                                          |
 | 172  | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | [Python3](./172/172.py)                  | Easy       | There's a conclusion about  factorial    |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Python3](./206/206.py)                  | Easy       |                                          |
 | 236  | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Python3](./236/236.py)                  | Medium     |                                          |
@@ -58,6 +63,7 @@ My solutions for LeetCode problems
 | 468  | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Python3](./468/468.py)                  | Medium     |                                          |
 | 473  | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) | [Python3](./473/473.py), [C++](./473/473.cpp) | Medium     | Refer to [official solution](https://leetcode.com/problems/matchsticks-to-square/solution/) |
 | 522  | [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [Python3](./522/522.py)                  | Medium     |                                          |
+| 543  | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | [Python3](./543/543.py)                  | Easy       |                                          |
 | 600  | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones) | [Python3](./600/600.py)                  | Hard       | **Dynamic programming, bit dp**          |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Python3[[1](./647/647.py), [2](./647/647-2.py)] | Medium     | Solution 2 refers to [here](https://leetcode.com/problems/palindromic-substrings/solution/) |
 | 773  | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | [Python3](./773/773.py)                  | Hard       |                                          |
@@ -72,6 +78,7 @@ My solutions for LeetCode problems
 | 880  | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | Python3[[1](./880/880.py), [2](./880/880-2.py)] | Medium     | Solution 2 refers to [here](https://leetcode.com/problems/decoded-string-at-index/solution/) |
 | 893  | [Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/) | [Python3](./893/893.py)                  | Easy       | Refer to [here](https://leetcode.com/problems/groups-of-special-equivalent-strings/solution/) |
 | 898  | [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays) | Python3[[1](./898/898.py), [2](./898/898-2.py)] | Medium     | Solution 2 refers to [here](https://leetcode.com/problems/bitwise-ors-of-subarrays/solution/) |
+| 929  | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Python3](./929/929.py)                  | Easy       |                                          |
 | 954  | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | [Python3](./954/954.py)                  | Medium     |                                          |
 | 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations) | [Python3](./1005/1005.py)                | Easy       |                                          |
 | 1006 | [Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial) | [Python3](./1006/1006.py)                | Medium     |                                          |
