@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Name of the problem copied from LeetCode webpage
-problem = ' 5. Longest Palindromic Substring '
+problem = ' 1276. Number of Burgers with No Waste of Ingredients '
 
 '''
 create a new directory

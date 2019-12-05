@@ -85,4 +85,6 @@ My solutions for LeetCode problems
 | 1007 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row) | [Python3](./1007/1007.py)                | Medium     |                                          |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal) | [Python3](./1008/1008.py)                | Medium     |                                          |
 | 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang) | [C++](./1037/1037.cpp)                   | Easy       |                                          |
+| 1275 | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game) | [Python3](./1275/1275.py)                | Easy       |                                          |
+| 1276 | [Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients) | [Python3](./1276/1276.py)                | Medium     | It should be Easy                        |
 
