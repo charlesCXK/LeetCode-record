@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Name of the problem copied from LeetCode webpage
-problem = ' 1276. Number of Burgers with No Waste of Ingredients '
+problem = ' 1277. Count Square Submatrices with All Ones '
 
 '''
 create a new directory

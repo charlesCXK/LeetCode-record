@@ -87,4 +87,5 @@ My solutions for LeetCode problems
 | 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang) | [C++](./1037/1037.cpp)                   | Easy       |                                          |
 | 1275 | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game) | [Python3](./1275/1275.py)                | Easy       |                                          |
 | 1276 | [Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients) | [Python3](./1276/1276.py)                | Medium     | It should be Easy                        |
+| 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones) | [Python3](./1277/1277.py)                | Medium     | DP Algorithm                             |
 
