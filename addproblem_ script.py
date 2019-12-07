@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Name of the problem copied from LeetCode webpage
-problem = ' 1277. Count Square Submatrices with All Ones '
+problem = ' 967. Numbers With Same Consecutive Differences '
 
 '''
 create a new directory

@@ -58,6 +58,7 @@ My solutions for LeetCode problems
 | 341  | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) | [Python3](./341/341.py)                  | Medium     |                                          |
 | 378  | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) | [Python3](./378/378.py)                  | Medium     | Binary Search                            |
 | 414  | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | Python3[[1](./414/414.py), [2](./414/414-2.py)] | Easy       |                                          |
+| 433  | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation) | [Python3](./433/433.py)                  | Medium     | Breadth-first Search                     |
 | 435  | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | [C++](./435/435.cpp)                     | Medium     | Greedy                                   |
 | 463  | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Python3](./463/463.py)                  | Easy       |                                          |
 | 468  | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Python3](./468/468.py)                  | Medium     |                                          |
@@ -80,6 +81,7 @@ My solutions for LeetCode problems
 | 898  | [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays) | Python3[[1](./898/898.py), [2](./898/898-2.py)] | Medium     | Solution 2 refers to [here](https://leetcode.com/problems/bitwise-ors-of-subarrays/solution/) |
 | 929  | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Python3](./929/929.py)                  | Easy       |                                          |
 | 954  | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | [Python3](./954/954.py)                  | Medium     |                                          |
+| 967  | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences) | [Python3](./967/967.py)                  | Medium     |                                          |
 | 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations) | [Python3](./1005/1005.py)                | Easy       |                                          |
 | 1006 | [Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial) | [Python3](./1006/1006.py)                | Medium     |                                          |
 | 1007 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row) | [Python3](./1007/1007.py)                | Medium     |                                          |
