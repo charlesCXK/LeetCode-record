@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Name of the problem copied from LeetCode webpage
-problem = ' 1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix '
+problem = ' 1293. Shortest Path in a Grid with Obstacles Elimination '
 
 '''
 create a new directory
