@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Name of the problem copied from LeetCode webpage
-problem = ' 1293. Shortest Path in a Grid with Obstacles Elimination '
+problem = ' 5294. Maximum Candies You Can Get from Boxes '
 
 '''
 create a new directory
