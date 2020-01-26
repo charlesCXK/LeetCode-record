@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Name of the problem copied from LeetCode webpage
-problem = ' 1335. Minimum Difficulty of a Job Schedule '
+problem = ' 1333. Filter Restaurants by Vegan-Friendly, Price and Distance '
 
 '''
 create a new directory
