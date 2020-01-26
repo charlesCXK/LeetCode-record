@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Name of the problem copied from LeetCode webpage
-problem = ' 1331. Rank Transform of an Array '
+problem = ' 1335. Minimum Difficulty of a Job Schedule '
 
 '''
 create a new directory
