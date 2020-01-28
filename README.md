@@ -57,6 +57,7 @@ My solutions for LeetCode problems
 | 330  | [Patching Array](https://leetcode.com/problems/patching-array) | [Python3](./330/330.py)                  | Hard       | Greedy, refer to [here](https://leetcode.com/problems/patching-array/discuss/196326/4ms-C%2B%2B-Greedy-solution-with-explanation%2B) |
 | 341  | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) | [Python3](./341/341.py)                  | Medium     |                                          |
 | 378  | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) | [Python3](./378/378.py)                  | Medium     | Binary Search                            |
+| 395  | [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters) | [Python3](./395/395.py)                  | Medium     | Divide and Conquer                       |
 | 414  | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | Python3[[1](./414/414.py), [2](./414/414-2.py)] | Easy       |                                          |
 | 433  | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation) | [Python3](./433/433.py)                  | Medium     | Breadth-first Search                     |
 | 435  | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | [C++](./435/435.cpp)                     | Medium     | Greedy                                   |

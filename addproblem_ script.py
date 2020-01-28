@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Name of the problem copied from LeetCode webpage
-problem = ' 1333. Filter Restaurants by Vegan-Friendly, Price and Distance '
+problem = ' 395. Longest Substring with At Least K Repeating Characters '
 
 '''
 create a new directory
