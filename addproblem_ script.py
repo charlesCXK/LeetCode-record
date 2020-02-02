@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Name of the problem copied from LeetCode webpage
-problem = ' 395. Longest Substring with At Least K Repeating Characters '
+problem = ' 1344. Jump Game V '
 
 '''
 create a new directory
