@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Name of the problem copied from LeetCode webpage
-problem = ' 1344. Jump Game V '
+problem = ' 1349. Maximum Students Taking Exam '
 
 '''
 create a new directory
