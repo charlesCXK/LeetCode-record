@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Name of the problem copied from LeetCode webpage
-problem = ' 1349. Maximum Students Taking Exam '
+problem = ' 168. Excel Sheet Column Title '
 
 '''
 create a new directory
