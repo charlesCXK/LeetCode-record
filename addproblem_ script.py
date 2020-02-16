@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Name of the problem copied from LeetCode webpage
-problem = ' 168. Excel Sheet Column Title '
+problem = ' 1353. Maximum Number of Events That Can Be Attended '
 
 '''
 create a new directory
