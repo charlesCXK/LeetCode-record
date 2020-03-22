@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Name of the problem copied from LeetCode webpage
-problem = ' 695. Max Area of Island '
+problem = ' 1392. Longest Happy Prefix '
 
 '''
 create a new directory
